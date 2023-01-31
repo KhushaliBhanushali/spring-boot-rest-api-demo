@@ -1,0 +1,17 @@
+First time add project on git
+
+1. git init
+2. git add README.md
+3. git commit -m "initial commit"
+4. git remote add origin https://github.com/KhushaliBhanushali/spring-boot-mysql-jpa-hibernate-web-application-demo.git
+5. git remote set-url origin https://KhushaliBhanushali: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@github.com/KhushaliBhanushali/spring-boot-mysql-jpa-hibernate-web-application-demo.git
+6. git push
+7. git push --set-upstream origin master
+
+
+Second Commit
+
+1. git status
+2. git add .
+3. git commit -m "second commit"
+4. git push -u origin main
